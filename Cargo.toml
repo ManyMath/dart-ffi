@@ -1,0 +1,9 @@
+[package]
+name = "dart-ffi"
+version = "0.0.1"
+edition = "2021"
+description = "Tools for Dart FFI."
+repository = "https://github.com/ManyMath/dart-ffi"
+license = "MIT"
+
+[dependencies]
